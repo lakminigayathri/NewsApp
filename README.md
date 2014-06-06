@@ -1,0 +1,4 @@
+NewsApp
+=======
+
+Android test application
